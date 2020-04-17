@@ -40,6 +40,7 @@ disturb should also be set.
 
 ### Deploy
 * Create a virtualenv
+* `cd` into `autostatus`
 * run `pip install -r requirements.txt`
 * run `chalice deploy`
 
